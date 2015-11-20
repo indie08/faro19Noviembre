@@ -85,10 +85,10 @@ Mauricio Alejandro González, Diana Ocampo Mendez
 		<access origin="http://www.farodeoriente.org/prueba/cuatro.html" subdomains="true"  />
 		<access origin="http://www.farodeoriente.org/prueba/cinco.html" subdomains="true"  />
 		<access origin="http://www.farodeoriente.org/prueba/seis.html" subdomains="true"  />
-		<allow-intent href="https://www.facebook.com/faro.deoriente"/>
-		<allow-intent href="https://www.instagram.com/farodeoriente"/>
-		<allow-intent href="https://www.youtube.com/user/Farodeorienteoficial"/>
-		<allow-intent href="https://twitter.com/farodeoriente"/>
-		<allow-intent href="https://flic.kr/s/aHsiTzgDMW"/>
+		<access origin="http://www.facebook.com/faro.deoriente"/>
+		<access origin="http://www.instagram.com/farodeoriente"/>
+		<access origin="http://www.youtube.com/user/Farodeorienteoficial"/>
+		<access origin="http://twitter.com/farodeoriente"/>
+		<access origin="http://flic.kr/s/aHsiTzgDMW"/>
 		
 	</widget>
