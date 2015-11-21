@@ -128,8 +128,15 @@ document.addEventListener('touchmove', function (e) { e.preventDefault(); }, fal
     <a href="http://flic.kr/s/aHsiTzgDMW"><div><input type="image" src="img/Flicker_White.png"/></div></a>
 
       </footer>
-
-        
+<script>
+   $(document).ready(function(){
+   $("#face").click(function(evento){
+      evento.preventDefault();
+      $('link').load("http://www.facebook.com/faro.deoriente");
+   });
+});
+</script>
+     
 <script src="js/jquery.jrumble.1.3.min.js"></script> 
 <script src="js/prettify.js"></script>
 <script>
