@@ -11,7 +11,6 @@ version de prueba app faro de oriente		</description>
 Mauricio Alejandro González, Diana Ocampo Mendez
 		</author>
 		
-		<preference name="stay-in-webview" value="false" />
 		<preference name="phonegap-version" value="3.7.0" />
 		<preference name="orientation" value="portrait" />
 		<preference name="fullscreen" value="false" />
@@ -34,6 +33,7 @@ Mauricio Alejandro González, Diana Ocampo Mendez
 		<preference name="SuppressesIncrementalRendering" value="false" />
 		<preference name="android-minSdkVersion" value="7" />
 		<preference name="android-maxSdkVersion" value="19" />
+		<preference name="android-targetSdkVersion" value="19" />
 		<preference name="android-installLocation" value="internalOnly" />
 		<preference name="SplashScreen" value="screen" />
 		<preference name="SplashScreenDelay" value="5000" />
