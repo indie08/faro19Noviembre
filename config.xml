@@ -27,7 +27,7 @@ Mauricio Alejandro González, Diana Ocampo Mendez
 		<preference name="MediaPlaybackRequiresUserAction" value="false" />
 		<preference name="AllowInlineMediaPlayback" value="false" />
 		<preference name="BackupWebStorage" value="cloud" />
-		<preference name="TopActivityIndicator" value="gray" />
+		<preference name="TopActivityIndicator" value="green" />
 		<preference name="KeyboardDisplayRequiresUserAction" value="false" />
 		<preference name="HideKeyboardFormAccessoryBar" value="false" />
 		<preference name="SuppressesIncrementalRendering" value="false" />
