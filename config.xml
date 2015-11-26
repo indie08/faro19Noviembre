@@ -61,37 +61,6 @@ Mauricio Alejandro González, Diana Ocampo Mendez
 		<gap:splash src="platforms\android\res\drawable-port-hdpi\screen.png" gap:platform="android" gap:density="hdpi" />
 		<gap:splash src="platforms\android\res\drawable-port-xhdpi\screen.png" gap:platform="android" gap:density="xhdpi" />
 		<gap:splash src="Splash20Screen-05.png" gap:platform="android" gap:density="xxhdpi" />
-		<access origin="http://www.farodeoriente.org/prueba/musica.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/cineclub.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/especiales.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/infantil.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/literatura.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/galerias.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/artes-escenicas.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/clubhouse.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/ambiente.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/talleres.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/comunidad.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/ludoteca.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/contenido.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/contenido.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/uno.jpg" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/dos.jpg" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/tres.jpg" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/cuatro.jpg" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/cinco.jpg" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/seis.jpg" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/uno.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/dos.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/tres.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/cuatro.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/cinco.html" subdomains="true"  />
-		<access origin="http://www.farodeoriente.org/prueba/seis.html" subdomains="true"  />
-		<access origin="http://www.facebook.com/faro.deoriente" />
-		<access origin="http://www.instagram.com/farodeoriente"/>
-		<access origin="http://www.youtube.com/user/Farodeorienteoficial"/>
-		<access origin="http://twitter.com/farodeoriente"/>
-		<access origin="http://flic.kr/s/aHsiTzgDMW"/>
 		<access origin="http://*" launch-external="yes"/>
 		<access origin="https://*" launch-external="yes"/>
 
