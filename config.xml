@@ -61,7 +61,10 @@ Mauricio Alejandro González, Diana Ocampo Mendez
 		<gap:splash src="platforms\android\res\drawable-port-hdpi\screen.png" gap:platform="android" gap:density="hdpi" />
 		<gap:splash src="platforms\android\res\drawable-port-xhdpi\screen.png" gap:platform="android" gap:density="xhdpi" />
 		<gap:splash src="Splash20Screen-05.png" gap:platform="android" gap:density="xxhdpi" />
-		<access origin="http://*" launch-external="yes"/>
-		<access origin="https://*" launch-external="yes"/>
+		<access origin="http://*" subdomains="true" launch-external="yes"/>
+		<access origin="https://*" subdomains="true" launch-external="yes"/>
+		<access origin="http://*/*/*" subdomains="true" />
+		<access origin="https://*/*/*" subdomains="true" />
+
 
 	</widget>
